@@ -4,12 +4,11 @@ pandas
 yfinance
 matplotlib
 seaborn
-ta
 streamlit
 pandas
 yfinance
 pykrx
-ta-lib
+ta-lib-binary
 plotly
 numpy
 requests
