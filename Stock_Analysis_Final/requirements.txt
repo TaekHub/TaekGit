@@ -9,6 +9,7 @@ pandas
 yfinance
 pykrx
 ta-lib-binary
+Ta-Lib
 plotly
 numpy
 requests
